@@ -64,6 +64,9 @@ Modified the code to use the latest versions of the packages and to work with th
 ## Features/Logs
 
 Day 1: set up the project with Next.js, and Clerk. login and signup pages up and running smoothly thanks to clerk.
+Day 2: updated the homepage, and added various features.
+To-Do: - troubleshoot why certain styles are not applied- reference (https://stackoverflow.com/questions/79577507/tailwind-4-utilities-failing-cannot-apply-unknown-utility-class-in-next-js-1). - look into why there are two profile "buttons" on the homepage.
+Day 3:
 
 ## Documentation
 
