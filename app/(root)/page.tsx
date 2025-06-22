@@ -1,10 +1,7 @@
-import { UserButton } from "@clerk/nextjs";
-import { User } from "@clerk/nextjs/server";
-
 export default function Home() {
   return (
-    <div>
-      <h1>HomePage</h1>
-    </div>
+    <>
+      <h1 className="head-text text-left">HomePage</h1>
+    </>
   );
 }
