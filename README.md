@@ -61,13 +61,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 Followed this [tutorial](https://www.youtube.com/watch?v=O5cmLDVTgAs) to set up the project.
 Modified the code to use the latest versions of the packages and to work with the latest Next.js features.
 
-## Features/Logs
-
-Day 1: set up the project with Next.js, and Clerk. login and signup pages up and running smoothly thanks to clerk.
-Day 2: updated the homepage, and added various features.
-To-Do: - troubleshoot why certain styles are not applied- reference (https://stackoverflow.com/questions/79577507/tailwind-4-utilities-failing-cannot-apply-unknown-utility-class-in-next-js-1). - look into why there are two profile "buttons" on the homepage.
-Day 3:
-
 ## Documentation
 
 For the full documentation of the packages used in this project, refer to the following links:
@@ -78,6 +71,13 @@ For the full documentation of the packages used in this project, refer to the fo
 - [Shadcn UI Documentation](https://ui.shadcn.com/docs) - for UI components.
 - [MongoDB Documentation](https://www.mongodb.com/docs/) - for MongoDB database management.
 - [Svix Documentation](https://docs.svix.com/) - for handling webhooks.
+
+## Features/Logs
+
+Day 1: set up the project with Next.js, and Clerk. login and signup pages up and running smoothly thanks to clerk.
+Day 2: updated the homepage, and added various features.
+To-Do: - troubleshoot why certain styles are not applied- reference (https://stackoverflow.com/questions/79577507/tailwind-4-utilities-failing-cannot-apply-unknown-utility-class-in-next-js-1). - look into why there are two profile "buttons" on the homepage.
+Day 3: finished homepage layout and navs setups. onboarding page and functionality is next. ran out of time today, but still need to figure out styles issues and why nothing is rendering how and where it's supposed to. also for the right side bar, need to brainstorm feature for choresync, maybe it can be " suggested chores" or potentially leave it off for a future feature post release, maybe coupons or if parternship with stores, they can advertise sales on cleaning products within that section as long as it doesn't make the page seem too "busy". side note: not sure this is how a readme is supposed to be formatted, but this is my first time actively writing one, so this is what it is for now.
 
 ## Learn More
 
